@@ -5,6 +5,8 @@ Your project's description...
 - Preview: https://main--pradeepeds--PradeepVerticurl.hlx.page/
 - Live: https://main--pradeepeds--PradeepVerticurl.hlx.live/
 
+- New site URL https://main--pradeepeds--pradeepverticurl.hlx.page/
+
 ## Installation
 
 ```sh
